@@ -49,14 +49,6 @@ A responsive, full-stack **Feedback Collection Web App** that enables users to s
 ### 📊 Admin Dashboard
 ![Admin Dashboard](./images/admin.jpeg)
 
-**Contributors:**
-
-1. Raj Vardhan Singh - rajvardhan75 - raj2006.vs@gmail.com
-2. Arjun Khishor - arjunirdande - irdandearjun@gmail.com
-3. Arya Arvind Dalvi - Aryadalvi03 - dalviarya03@gmail.com
-4. P Sathvik Reddy - Sathvik2954 - reddysathvik2005@gmail.com
-5. Ajil P R - Ajil017 - ajilpr2005@gmail.com
-
 
 ---
 
@@ -89,6 +81,3 @@ Vercel (Frontend)
 
 Heroku
 
-## 📄 License
-This project is licensed under the MIT License.
-Feel free to fork, modify, and contribute!
